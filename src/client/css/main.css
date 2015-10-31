@@ -51,6 +51,7 @@ div {
     left: 5px;
     border-radius: 5px;
     pointer-events: none;
+    opacity: 0.0;
 }
 
 .chatbox .chat-list {
